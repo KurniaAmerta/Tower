@@ -8,6 +8,9 @@ Tower Game merupakan game denga tipe Tower Defense dan Realtime Strategy. Terdap
 Game Engine:
 Unity 2020.3.20f1
 
+Walkthrough
+https://youtu.be/Q95qPlignsE
+
 Game:
 https://drive.google.com/drive/folders/1OZw0GMjzeYXthXpUO4psMVmodMX7UdwB?usp=share_link
 
