@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ebce00b40f285a144b2d58032ddc02d3, type: 3}
+  m_Name: Base
+  m_EditorClassIdentifier: 
+  health: fa0000002c0100005e010000
+  coin: 000000001400000019000000
+  time: 000000000a0000000f000000
+  level: 010000000200000003000000
+  produce:
+  - 5
+  - 3
+  - 1
+  isBase: 1
+  towerObj: {fileID: 0}
+  towerSpr:
+  - {fileID: 2100330896324458447, guid: b8157689ab9a5464bb3071c2cd878f3c, type: 3}
+  - {fileID: 2538402432948748274, guid: b8157689ab9a5464bb3071c2cd878f3c, type: 3}
+  - {fileID: 7887131940858617921, guid: b8157689ab9a5464bb3071c2cd878f3c, type: 3}
+  ammo: {fileID: 0}
